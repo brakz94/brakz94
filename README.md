@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Web development & Design(laravel,php,html,css,java)**
 
-- 📫 How to reach me **bosirebrian.bb@gmail.com**
+- 📫 How to reach me **bosirebrian.bb@gmail.com** / +254706558755
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
